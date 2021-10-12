@@ -1,0 +1,17 @@
+# Scientific python
+scipy
+# Spacy
+spacy
+# Pytextrank
+pytextrank
+# Vosk
+vosk
+# Bottle
+bottle
+# TinyDB
+tinydb
+# Marshmallow
+marshmallow-dataclass
+marshmallow_enum
+# Sentry SDK
+sentry-sdk[bottle]==0.16.2
